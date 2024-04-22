@@ -1,0 +1,6 @@
+import org.apache.ibatis.io.VFS;
+public class FunctionUse439 {
+public void funcUse() {
+VFS vfs = new VFS();
+}
+}
